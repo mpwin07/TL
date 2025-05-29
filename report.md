@@ -136,12 +136,12 @@ Error Correction: Using cavities for logical qubit encoding.
 
 Quantum Networking: Using cavity photons to link quantum nodes.
 
-🧪 Research Labs & Projects:
+Research Labs & Projects:
 IBM Quantum, Google Sycamore, MIT Lincoln Labs, Yale QLab
 
 Nature Physics, PRX Quantum, and arXiv preprints show ongoing breakthroughs.
 
-7. Future Evolution
+## 7. Future Evolution
 Quantum Internet: Cavity resonators will enable secure quantum communication links.
 
 Photonic Cavities on Chips: For scalable quantum processors.
@@ -150,6 +150,6 @@ Topological Quantum Computing: Cavities will support exotic states like Majorana
 
 Ultra-long Coherence: Using vacuum-sealed, cryogenically cooled cavities.
 
-8. Conclusion
+## 8. Conclusion
 Superconducting cavity resonators have evolved from classical microwave structures into quantum-era components with game-changing capabilities. Their ability to interact with qubits, maintain coherence, and confine quantum information precisely makes them vital in current and future quantum computing systems. Understanding these resonators not only deepens our grasp of electromagnetics but also prepares us to contribute to tomorrow’s computing revolution.
 
