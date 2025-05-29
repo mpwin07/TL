@@ -62,9 +62,7 @@ For cylindrical or circular cavities, the fields are governed by Bessel function
 
 a: Radius of the cavity
 
-𝑥
-𝑚
-𝑛
+𝑥𝑚𝑛`
  : The nth root of the derivative of the Bessel function of order m
 
 This is particularly useful in whispering-gallery mode resonators, where light circulates at the edge of a dielectric disk, offering ultra-high-Q performance.
